@@ -1,0 +1,1 @@
+mad_lib_kinda.py is a mad lib type game, kinda. (It was actually assignment 3 from my previous course)
